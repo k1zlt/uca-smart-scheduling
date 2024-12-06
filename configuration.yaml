@@ -1,0 +1,8 @@
+services:
+  # If true, it loads the data from server.
+  load: true
+   # Base URL of the server that stores information about Individuals, Courses etc.
+  base_url: "https://10.121.4.116:8081/"
+
+dirs:
+  data: "data/"
